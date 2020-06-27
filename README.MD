@@ -8,5 +8,5 @@ pip install -f requirements.txt
 
 ### To run the script,
 ```
-python chatgui.run
+python chatgui.py
 ```
