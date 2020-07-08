@@ -3,7 +3,7 @@
 
 ### first:
 ```
-pip install -f requirements.txt
+pip install -r requirements.txt
 ```
 
 ### To run the script,
